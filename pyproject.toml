@@ -1,0 +1,10 @@
+[project]
+name = 'japandata'
+description = 'analyzing japanese video game sales data'
+
+[tool.pytest.ini_options]
+pythonpath = '.'
+testpaths = 'tests'
+addopts = [
+    "--import-mode=importlib",
+]
