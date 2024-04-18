@@ -9,6 +9,7 @@ Japanese retail videogame market is one of the few with up-to-date and archived 
 ### TODO
 
 - [x] Prepare data gathering scripts
+- [ ] Prepare data storage
 - [ ] Get all data
 - [ ] Perform analysis
 - [ ] Present results statically
